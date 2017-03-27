@@ -1,2 +1,5 @@
-body{background-color:darkkhaki;}
-h1, p{darkolivegreen}
+body{background-color:bisque;}
+h1, p{black}
+<h1> @import url('https://fonts.googleapis.com/css?family=Shrikhand');
+<h2> @import url('https://fonts.googleapis.com/css?family=Shrikhand');
+<p> @import url('https://fonts.googleapis.com/css?family=Philosopher|Shrikhand');
