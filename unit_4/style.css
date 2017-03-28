@@ -1,5 +1,11 @@
 body{background-color:bisque;}
 h1, p{black}
-<h1> @import url('https://fonts.googleapis.com/css?family=Shrikhand');
-<h2> @import url('https://fonts.googleapis.com/css?family=Shrikhand');
-<p> @import url('https://fonts.googleapis.com/css?family=Philosopher|Shrikhand');
+p {
+	font-family: palatino, georgia, sans-serif;	
+  font-size: 18px;
+	line-height: 1.5em;
+	margin: 2em;
+}
+strong {
+	font-variant: small-caps;
+}
