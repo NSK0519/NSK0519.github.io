@@ -1,5 +1,5 @@
 body{background-color:bisque;}
-h1, p{black}
+h1, p{color:black;}
 @import url('https://fonts.googleapis.com/css?family=Shrikhand');
 h1{
 	text-align: center;
