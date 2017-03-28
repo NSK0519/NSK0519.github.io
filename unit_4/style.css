@@ -1,0 +1,17 @@
+body{background-color:bisque;}
+h1, p{black}
+@import url('https://fonts.googleapis.com/css?family=Shrikhand');
+h1{
+	text-align: center;
+	font-family:sans-serif;
+}
+p {
+	font-family: palatino, georgia, sans-serif;	
+  font-size: 18px;
+	line-height: 1.5em;
+	margin: 2em;
+	text-align: center;
+}
+strong {
+	font-variant: small-caps;
+}
