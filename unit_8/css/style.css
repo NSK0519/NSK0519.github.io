@@ -47,7 +47,7 @@ div/section {
     border: 1px black solid;
     padding: 20px;
     float: left;
-    width: 50%;
+    max-width: 400px;
 }
 
 #right {
@@ -55,7 +55,7 @@ div/section {
     border: 1px black solid;
     padding: 20px;
     float: right;
-    width: 50%;
+    max-width: 400px;
 }
 
 .clearfix:after {
