@@ -1,43 +1,43 @@
 header {
-    background-color: #FFED74;
+    background-color: blue;
     border: 1px black solid;
     padding: 21px;
 }
 
 nav {
-    background-color: #E8C66A;
+    background-color: gray;
     border: 1px black solid;
     padding: 20px;
     width: 25%;
 }
 
 aside {
-    background-color: #FFC675;
+    background-color: gray;
     border: 1px black solid;
     padding: 20px;
 }
 
 article {
-    background-color: #E89C6C;
+    background-color: gray;
     border: 1px black solid;
     padding: 20px;
     width: 50%;
 }
 
 footer {
-    background-color: #FF957E;
+    background-color: gray;
     border: 1px black solid;
     padding: 20px;
 }
 
 div/section {
-    background-color: #FFE2B8;
+    background-color: gray;
     border: 1px black solid;
     padding: 20px;
 }
 
 #two_column {
-    background-color: #FFB7CF;
+    background-color: black;
     border: 1px black solid;
     padding: 20px;
 }
