@@ -2,6 +2,7 @@ header {
     background-color: blue;
     border: 1px black solid;
     padding: 21px;
+    text-align: center;
 }
 
 nav {
@@ -15,6 +16,7 @@ aside {
     background-color: gray;
     border: 1px black solid;
     padding: 20px;
+    text-align: center;
 }
 
 article {
@@ -22,24 +24,28 @@ article {
     border: 1px black solid;
     padding: 20px;
     width: 50%;
+    text-align: center;
 }
 
 footer {
     background-color: gray;
     border: 1px black solid;
     padding: 20px;
+    text-align: center;
 }
 
 div/section {
     background-color: gray;
     border: 1px black solid;
     padding: 20px;
+    text-align: center;
 }
 
 #two_column {
     background-color: black;
     border: 1px black solid;
     padding: 20px;
+    text-align: center;
 }
 
 #left {
@@ -48,6 +54,7 @@ div/section {
     padding: 20px;
     float: left;
     max-width: 400px;
+    text-align: center;
 }
 
 #right {
@@ -56,6 +63,7 @@ div/section {
     padding: 20px;
     float: right;
     max-width: 400px;
+    text-align: center;
 }
 
 .clearfix:after {
