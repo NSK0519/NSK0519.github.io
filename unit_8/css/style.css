@@ -76,7 +76,7 @@ div/section {
     text-align: center;
 }
 
-body{background-color:bisque;}
+body{background-color:gray;}
 h1, p{black}
 <h1> @import url('https://fonts.googleapis.com/css?family=Shrikhand');
 <h2> @import url('https://fonts.googleapis.com/css?family=Shrikhand');
