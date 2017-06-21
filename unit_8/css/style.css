@@ -42,31 +42,6 @@ div/section {
     text-align: center;
 }
 
-#two_column {
-    background-color: black;
-    border: 1px black solid;
-    padding: 20px;
-    text-align: center;
-}
-
-#left {
-    background-color: blue;
-    border: 1px black solid;
-    padding: 20px;
-    float: left;
-    max-width: 400px;
-    text-align: center;
-}
-
-#right {
-    background-color: blue;
-    border: 1px black solid;
-    padding: 20px;
-    float: right;
-    max-width: 400px;
-    text-align: center;
-}
-
 .clearfix:after {
     visibility: hidden;
     display: block;
