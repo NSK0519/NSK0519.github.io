@@ -43,7 +43,7 @@ div/section {
 }
 
 #left {
-    background-color: gray;
+    background-color: blue;
     border: 1px black solid;
     padding: 20px;
     float: left;
@@ -51,7 +51,7 @@ div/section {
 }
 
 #right {
-    background-color: green;
+    background-color: blue;
     border: 1px black solid;
     padding: 20px;
     float: right;
